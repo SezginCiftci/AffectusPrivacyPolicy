@@ -1,0 +1,2 @@
+# AffectusPrivacyPolicy
+Affectus Privacy Policy
