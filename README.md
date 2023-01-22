@@ -142,3 +142,5 @@ Affectus Privacy Policy
 <ul>
 <li>By email: sezgin0776@gmail.com</li>
 </ul>
+
+<div id="copyright" align="center">© 2023 - <?php echo date('Y'); ?> Affectus - All Rights Reserved.</div>
